@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0771fee77e269b3ba8ba8e3344074c2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\35addbaca2f9e521e8f59696247f5704\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e0cc49dbe3ea736c47a33ac234108c9b\AndroidManifest.xml:2:1-11:12
+MERGED from [cn.leancloud.android:avoscloud-push:v4.7.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\avoscloud-push-v4.7.3.aar\9f0f888b67254e89e91e784f517a90c1\AndroidManifest.xml:2:1-11:12
+MERGED from [cn.leancloud.android:avoscloud-feedback:v4.7.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\avoscloud-feedback-v4.7.3.aar\d17fed112f68b853ea8e6f3a5a14c539\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d85c19cae96d51cfbe5ce89de3231d18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\aac609310f51c263240cb8bb80c5de0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac75cad0f528b8071b95beefcd690c03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c086d0de8a65e485ec452d0772f9cad2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\53d2b726767abc1c89928c2e45c419a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ba12860f24904b10b28cd68f4a7a1f16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bc0ed1a5283d2a73dc16d936b8c53df4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b3c0c1954b7d742cf2e8e9a53dd901c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e3d8ad27898a1daa9415e13921c02c99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f14dd21e99034b2057853a11b83a9eeb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c3e3e3938da05c5450ab7491052a9067\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06ca98eb3c145fd92a6487ee09f81b9f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71795f6fdb03496acb4b70bd6ef521ea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\02a20118a02bef832edbb894b300887e\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:10:22-73
+application
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:13:5-60:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e0cc49dbe3ea736c47a33ac234108c9b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e0cc49dbe3ea736c47a33ac234108c9b\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:17:9-39
+service#com.avos.avoscloud.PushService
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:23:9-65
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:23:18-63
+receiver#com.avos.avoscloud.AVBroadcastReceiver
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:24:19-72
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:26:17-78
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:26:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:27:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:28:17-79
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:28:25-76
+activity#com.avos.avoscloud.feedback.ThreadActivity
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:36:9-38:20
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:37:13-70
+activity#com.example.jasonlss.smartdoorapp.MainActivity
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:42:9-59:20
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:42:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:53:13-57:29
+action#android.intent.action.MAIN
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:54:17-68
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:54:25-66
+category#android.intent.category.HOME
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:55:17-72
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:55:27-70
+category#android.intent.category.LAUNCHER
+ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:56:17-76
+	android:name
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml:56:27-74
+uses-sdk
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0771fee77e269b3ba8ba8e3344074c2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0771fee77e269b3ba8ba8e3344074c2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\35addbaca2f9e521e8f59696247f5704\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\35addbaca2f9e521e8f59696247f5704\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e0cc49dbe3ea736c47a33ac234108c9b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e0cc49dbe3ea736c47a33ac234108c9b\AndroidManifest.xml:5:5-7:41
+MERGED from [cn.leancloud.android:avoscloud-push:v4.7.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\avoscloud-push-v4.7.3.aar\9f0f888b67254e89e91e784f517a90c1\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-push:v4.7.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\avoscloud-push-v4.7.3.aar\9f0f888b67254e89e91e784f517a90c1\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-feedback:v4.7.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\avoscloud-feedback-v4.7.3.aar\d17fed112f68b853ea8e6f3a5a14c539\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-feedback:v4.7.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\avoscloud-feedback-v4.7.3.aar\d17fed112f68b853ea8e6f3a5a14c539\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d85c19cae96d51cfbe5ce89de3231d18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d85c19cae96d51cfbe5ce89de3231d18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\aac609310f51c263240cb8bb80c5de0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\aac609310f51c263240cb8bb80c5de0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac75cad0f528b8071b95beefcd690c03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ac75cad0f528b8071b95beefcd690c03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c086d0de8a65e485ec452d0772f9cad2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c086d0de8a65e485ec452d0772f9cad2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\53d2b726767abc1c89928c2e45c419a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\53d2b726767abc1c89928c2e45c419a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ba12860f24904b10b28cd68f4a7a1f16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ba12860f24904b10b28cd68f4a7a1f16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bc0ed1a5283d2a73dc16d936b8c53df4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bc0ed1a5283d2a73dc16d936b8c53df4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b3c0c1954b7d742cf2e8e9a53dd901c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b3c0c1954b7d742cf2e8e9a53dd901c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e3d8ad27898a1daa9415e13921c02c99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e3d8ad27898a1daa9415e13921c02c99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f14dd21e99034b2057853a11b83a9eeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f14dd21e99034b2057853a11b83a9eeb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c3e3e3938da05c5450ab7491052a9067\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c3e3e3938da05c5450ab7491052a9067\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06ca98eb3c145fd92a6487ee09f81b9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06ca98eb3c145fd92a6487ee09f81b9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71795f6fdb03496acb4b70bd6ef521ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71795f6fdb03496acb4b70bd6ef521ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\02a20118a02bef832edbb894b300887e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\02a20118a02bef832edbb894b300887e\AndroidManifest.xml:20:5-44
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+		ADDED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
+		INJECTED from E:\androidcode\SmartdoorAPP20181125\app\src\main\AndroidManifest.xml
